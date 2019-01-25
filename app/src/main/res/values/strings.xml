@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music Match</string>
+    <string name="facebook_app_id">1627830790662953</string>
+    <string name="fb_login_protocol_scheme">fb1627830790662953</string>
+    <string name="profile_page">Profile</string>
+    <string name="search_page">Search</string>
+    <string name="title_activity_home_start">Home_start</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
